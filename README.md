@@ -97,9 +97,9 @@ _Node configuration screen example for joining network node_
 
 3. Go to **http://first\_node\_server \_ip\_address** : **22004** and accept second node via web interface.
 
-![Request1](image/QuorumRequest1.png)
+![Requt1](image/QuorumRequest1.png)
 
-![Request2](image/QuorumRequest2.png)
+![quest2](image/QuorumRequest2.png)
 
 4. Observe notification of successful connection in the node manager web interface of first node
 
