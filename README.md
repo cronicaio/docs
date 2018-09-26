@@ -118,7 +118,7 @@ image/QuorumAccount.png
 
 1.2 To create a new account you need to come up with a password and click the &quot;Submit&quot; button
 
-image/CreateAccount.png
+docs/Image/CreateAccount.png
 
 1.3 After that the new account appears in the list with the generated key and your password
 
