@@ -45,7 +45,7 @@ Storage: EBS volume 200 GB (SSD, GP2)**
 
 [Optional1node](https://github.com/cronicaio/docs/blob/master/Image/Optional1.png)
 
-[id]: https://github.com/cronicaio/docs/blob/master/Image/Optional1.png
+[Optional]: https://github.com/cronicaio/docs/blob/master/Image/Optional1.png
 
 _Node configuration screen example for configuration of first node_
 
