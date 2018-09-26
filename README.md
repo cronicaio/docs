@@ -97,8 +97,8 @@ _Node configuration screen example for joining network node_
 
 3. Go to **http://first\_node\_server \_ip\_address** : **22004** and accept second node via web interface.
 
-image/QuorumRequest1.png
-image/QuorumRequest2.png
+![Request1](image/QuorumRequest1.png)
+![Request2](image/QuorumRequest2.png)
 
 4. Observe notification of successful connection in the node manager web interface of first node
 
@@ -114,16 +114,13 @@ _if you&#39;ll need to restart node after stop, follow next steps:_
 1. Go to the site 1 node **http://first\_node\_server\_ip\_address:22004**
 
 1.1 Press button &quot;Accounts&quot;
-
-image/QuorumAccount.png
+![QuorumAccount](image/QuorumAccount.png)
 
 1.2 To create a new account you need to come up with a password and click the &quot;Submit&quot; button
-
-Image/CreateAccount.png   
+![CreateAccount](Image/CreateAccount.png)  
 
 1.3 After that the new account appears in the list with the generated key and your password
-
-image/Infor.Account.png
+![Infor.Account](image/Infor.Account.png)
 
 1.4 After creating an account, you should refill it
 
@@ -151,16 +148,14 @@ image/Infor.Account.png
 **rm -r geth\_binary**
 
 3.1 Attach to the node using command:
-
-image/Gethattach.png
+![Gethattach](image/Gethattach.png)
 
 **~/geth**  **attach ~/quorum-maker/cronica/node/qdata/geth.ipc**
 
 Where **~/quorum-maker/cronica/node/qdata/geth.ipc** - path to geth.ipc interface
 
 3.1.1 Now you should unlock the main account for the transfer to the one we the created accounts
-
-image/Unlock.png
+![Unlock](image/Unlock.png)
 
 **$ web3.personal.unlockAccount(eth.coinbase)**
 
@@ -168,12 +163,12 @@ image/Unlock.png
 
 3.2 Then you can transfer funds to our created account, Green Vision key transaction
 
-image/Transfer.png
+![Transfer](image/Transfer.png)
 
 **$ eth.sendTransaction({from:eth.coinbase, to:&quot;0xb8fa57faa98a8796b4b527214bdafd23b8426470&quot;, value:10000})**
 
 3.3 Detailed information about our transaction should be displayed
 
-image/Details.png
+![Details](image/Details.png)
 
 **$  eth.getTransactionReceipt(&quot;enter the transaction key&quot;)**
