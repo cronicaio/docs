@@ -43,13 +43,13 @@ Storage: EBS volume 200 GB (SSD, GP2)**
 
 2.9 _Input WS Port of current node -_ **Type WS\_node\_port** or press [**Enter**] for default [Default:22005]: &quot;22005&quot;
 
-![Node1](Image/Optional2.png)
+![Node1](Image/Optional1.png)
 
 _Node configuration screen example for configuration of first node_
 
 3. Observe success message
 
-[image]: (Image/Optional2.png)
+![Node2](Image/Optional2.png)
 
 4. Your node started at **http://first\_node\_server\_ip\_address:22004**
 
