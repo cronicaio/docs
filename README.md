@@ -45,12 +45,10 @@ Storage: EBS volume 200 GB (SSD, GP2)**
 
 [Optional1node](https://github.com/cronicaio/docs/blob/master/Image/Optional1.png)
 
-[image]: (https://github.com/cronicaio/docs/blob/master/Image/Optional2.png)
-
 _Node configuration screen example for configuration of first node_
 
 3. Observe success message
-
+[image]: (https://github.com/cronicaio/docs/blob/master/Image/Optional2.png)
 4. Your node started at **http://first\_node\_server\_ip\_address:22004**
 
 _if you&#39;ll need to restart node after stop, follow next steps:_
