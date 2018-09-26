@@ -43,7 +43,7 @@ Storage: EBS volume 200 GB (SSD, GP2)**
 
 2.9 _Input WS Port of current node -_ **Type WS\_node\_port** or press [**Enter**] for default [Default:22005]: &quot;22005&quot;
 
-docs/Image/Optional1.png
+Image/Optional1.png
 
 _Node configuration screen example for configuration of first node_
 
