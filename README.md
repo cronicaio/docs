@@ -23,7 +23,7 @@ Storage: EBS volume 200 GB (SSD, GP2)**
 
 1.3 Run setup script - **$ ./setup.sh**
 
-2.Set the network parameters, as described below:
+ 2.Set the network parameters, as described below:
 
 2.1 _Select  &quot;Create new network&quot;_ - enter &quot; **1**&quot; and press [**Enter**]
 
@@ -49,7 +49,6 @@ _Node configuration screen example for configuration of first node_
 
 3. Observe success message
 
-![Node2](Image/Optional2.png)
 
 4. Your node started at **http://first\_node\_server\_ip\_address:22004**
 
@@ -92,9 +91,9 @@ _2.9 Input Node Manager Port_ of current node - Type **node\_manager\_listening\
 
 _2.10 Input WS Port of current node -_ **Type WS\_node\_port** or press [**Enter**] for   default [Default:22005]: &quot;22005&quot;
 
-_Node configuration screen example for joining network node_
+![Node2](Image/Optional2.png)
 
-image/Optional2.png
+_Node configuration screen example for joining network node_
 
 3. Go to **http://first\_node\_server \_ip\_address** : **22004** and accept second node via web interface.
 
