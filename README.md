@@ -1,4 +1,4 @@
-# ## Minimal requirements for server hardware and software:
+#  Minimal requirements for server hardware and software:
 
 **Instance type: t3.micro, t2/t3 unlimited
 Storage: EBS volume 200 GB (SSD, GP2)**
