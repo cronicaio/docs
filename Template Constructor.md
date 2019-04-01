@@ -46,7 +46,7 @@ Step-by-step guide
  
     d. Observe as newly added variable appears within the template
     
-[7](Image/constructor_template_pic7.png)  
+![7](Image/constructor_template_pic7.png)  
  
     f. Table with stated columns will be added to the template
 
