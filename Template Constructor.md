@@ -36,17 +36,17 @@ Step-by-step guide
 
     a. Click on 'Variable' icon in the tool bar
               
-![5](Image/constructor_template_pic05.png)
+![5](Image/constructor_template_pic5.png)
 
     b. Input Variable (field) name to 'Variable Name' field
 
     c. Click on 'Submit' button
     
-![6](Image/constructor_template_pic06.png)   
+![6](Image/constructor_template_pic6.png)   
  
     d. Observe as newly added variable appears within the template
     
-[7](Image/constructor_template_pic07.png)  
+[7](Image/constructor_template_pic7.png)  
  
     f. Table with stated columns will be added to the template
 
@@ -54,7 +54,7 @@ Step-by-step guide
 
     a. Click on 'Image' icon in the tool bar
     
-![8](Image/constructor_template_pic08.png)   
+![8](Image/constructor_template_pic8.png)   
     
     b. Observe 'Select image' popup window
 
