@@ -6,7 +6,7 @@ Step-by-step guide
 
 **2.  Put all used images into “../template/img” folder**
 
-![Login](Image/HTML3.png)
+![Generic template](Image/HTML3.png)
 
 ```php
 <img src="./template/img/cronica.png" alt="Cronica">
