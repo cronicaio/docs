@@ -10,7 +10,7 @@ Step-by-step guide
 
 3.  Open .html document to make next changes with code:
 
-**Change file location for images to just file name:
+**Change file location for images to just file name:**
 Before: 
 
 ```php
@@ -23,7 +23,7 @@ After:
 <img src="cronica.png" alt="Cronica">
 ```
 
-**Insert variables to any place of html within    <p>, <span>, <div> tags by adding  ###variable_name###:
+**Insert variables to any place of html within    <p>, <span>, <div> tags by adding  ###variable_name###:**
   
 Before:
   
@@ -35,7 +35,7 @@ After:
 ```php
 <p style="text-align: center;">Declaration of ###name###</p>
 ```
-**Insert “data-tablename” parameter with the table name to table tags:
+**Insert “data-tablename” parameter with the table name to table tags:**
 
 Before: 
 
@@ -49,7 +49,7 @@ After:
 <table data-tablename="new_table" style="height: 17px; margin-left: auto; margin-right: auto;" width="631">
 ```
 
-**Add name for the columns within <td> tags:
+**Add name for the columns within <td> tags:**
   
 Before: 
 
