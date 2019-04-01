@@ -23,7 +23,7 @@ After:
 <img src="cronica.png" alt="Cronica">
 ```
 
-**Insert variables to any place of html within <p>, <span>, <div> tags by adding ‘ ###variable_name###’:
+**Insert variables to any place of html within    <p>, <span>, <div> tags by adding  ###variable_name###:
   
 Before:
   
