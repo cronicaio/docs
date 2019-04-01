@@ -6,7 +6,7 @@ Step-by-step guide
 
 **2.  Put all used images into “../template/img” folder**
 
-![Node1](Image/1.jpg)
+![Login](Image/1.jpg)
 
 ```php
 <img src="./template/img/cronica.png" alt="Cronica">
