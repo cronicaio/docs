@@ -6,11 +6,11 @@
 
 **4. Click on any structured document template (all except 'Generic');**
 
-![1](Image/.png)
+![1](Image/create_structured_pic01.png)
 
 **5. Observe document creation screen with fields for data entry;**
     
-![2](Image/.png)
+![2](Image/create_structured_pic02.png)
 
 **6. Input an appropriate document holder name into 'Document Holder' field;**
 
@@ -24,10 +24,12 @@
 
 **10. If you need to add a row to the table, click on 'New Row' button below;**
    
-![3](Image/.png)
+![3](Image/create_structured_pic03.png)
    
 **11. Click on 'Submit' button, when all the changes to the document are finished;**
       
-![4](Image/.png)
+![4](Image/create_structured_pic04.png)
       
 **12. Observe the screen on successful document submission;**
+
+![5](Image/create_structured_pic05.png)
