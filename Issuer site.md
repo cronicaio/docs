@@ -1,4 +1,4 @@
-Step-by-step guide
+# Step-by-step guide
 
 **1. Go to the Issuer site of Cronica.io and authorize;**
 
